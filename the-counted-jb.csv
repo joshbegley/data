@@ -1,4 +1,4 @@
-name,age,gender,raceethnicity,month,day,year,streetaddress,city,state,cause,lawenforcementagency,armed,number_id
+name,age,gender,raceethnicity,month,day,year,streetaddress,city,state,cause,agency,armed,img-number
 Roberto Ornelas,18,Male,Hispanic/Latino,January,1,2015,39 N Marlin Ave,Key Largo,FL,Unknown,Monroe County Sheriff's Office,No,1
 Matthew Ajibade,22,Male,Black,January,1,2015,1050 Carl Griffin Dr,Savannah,GA,Death in custody,Chatham County Sheriff's Office,No,2
 Garrett Gagne,22,Male,White,January,1,2015,Crowell Rd and Tipcart Dr,Chatham,MA,Struck by vehicle,Chatham Police Department,No,3
