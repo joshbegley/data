@@ -36,7 +36,7 @@ Jeffrey Nielson,34,Male,White,January,14,2015,120 Honey Berry Ct,Draper,UT,Gunsh
 Robert Edwards,68,Male,White,January,14,2015,500 Sycamore St,Lake Jackson,TX,Gunshot,Lake Jackson Police Department,Firearm,35
 Talbot Schroeder,75,Male,White,January,14,2015,40 Cedar Grove Pl,Old Bridge Township,NJ,Gunshot,Old Bridge Police Department,Knife,36
 Louis Becker,87,Male,White,January,14,2015,New York State Rte 23 and Cairo Junction Rd,Catskill,NY,Struck by vehicle,New York State Troopers,No,37
-Quincy Reed Reindl,24,Male,White,January,15,2015,Nesbitt Ave S and 99th St W,Bloomington,MN,Gunshot,Bloomington Police Department,Firearm,38
+Quincy Reindl,24,Male,White,January,15,2015,Nesbitt Ave S and 99th St W,Bloomington,MN,Gunshot,Bloomington Police Department,Firearm,38
 Donte Sowell,27,Male,Black,January,15,2015,East 38th St and North Mitthoeffer Rd,Indianapolis,IN,Gunshot,Indianapolis Metropolitan Police Department,Firearm,39
 Nathan Massey,33,Male,White,January,15,2015,Becky Sue St,Ville Platte,LA,Gunshot,Evangeline Parish Sheriff's Office,Firearm,40
 Mario Jordan,34,Male,Black,January,14,2015,Sir Gawaine Dr,Chesapeake,VA,Gunshot,Chesapeake City Police Department,Firearm,41
@@ -142,7 +142,7 @@ Pedro 'Pete' Juan Saldivar,50,Male,Hispanic/Latino,February,17,2015,US-90 and Ch
 Michael Ireland,31,Male,White,February,18,2015,1400 N Marion Ave,Springfield,MO,Gunshot,Springfield Police Department,No,141
 Janisha Fonville,20,Female,Black,February,19,2015,Bellefonte Dr,Charlotte,NC,Gunshot,Charlotte-Mecklenburg Police Department,Knife,142
 Chance Thompson,35,Male,White,February,15,2015,Hammonton Smartville Rd,Marysville,CA,Taser,Yuba County Sheriff's Office,No,143
-Rubén García Villalpando,31,Male,Hispanic/Latino,February,20,2015,2500 Texas Hwy 121,Euless,TX,Gunshot,Grapevine Police Department,No,144
+Ruben Garcia Villalpando,31,Male,Hispanic/Latino,February,20,2015,2500 Texas Hwy 121,Euless,TX,Gunshot,Grapevine Police Department,No,144
 Stanley Grant,38,Male,Black,February,20,2015,2200 Green Springs Hwy,Birmingham,AL,Gunshot,Homewood Police Department,Firearm,145
 Alejandro Salazar,Unknown,Male,Hispanic/Latino,February,20,2015,1200 E Airtex Dr,Houston,TX,Gunshot,US Marshals Service,Firearm,146
 Jason Carter,41,Male,White,February,21,2015,298 Gavilan Canyon Rd,Rudioso,NM,Gunshot,New Mexico State Police and US Marshals Service,Firearm,147
@@ -462,7 +462,7 @@ Robert Box,55,Male,White,May,29,2015,108 Fir Canyon Rd,Grants Pass,OR,Gunshot,Or
 Ebin Proctor,19,Male,Unknown,May,30,2015,Yuma Circle,Cottonwood,AZ,Gunshot,Yavapai County Sheriff’s Office,No,461
 Alexander Rivera,39,Male,Hispanic/Latino,May,30,2015,1128 Murfreesboro Pike,Nashville,TN,Gunshot,Metro Nashville Police Department,Non-lethal firearm,462
 Richard Davis,50,Male,Black,May,31,2015,Tremont St and Morgan St,Rochester,NY,Taser,Rochester Police Department,No,463
-Jeffrey Pitts,36,Male,White,May,31,2015,3500 Ebenezer Rd,Conyers,GA,Gunshot,Rockdale County Sheriff's office,Firearm,464
+Jeffrey Pitts [REMOVED],36,Male,White,May,31,2015,3500 Ebenezer Rd,Conyers,GA,Gunshot,Rockdale County Sheriff's office,Firearm,464
 James Bushey,47,Male,White,June,1,2015,2225 Texas Hwy 256 Loop,Palestine,TX,Gunshot,Palestine Police Department,Firearm,465
 Joseph Ladd,23,Male,White,June,1,2015,271 Greece Ridge Center Dr,Rochester,NY,Gunshot,Greece Police Department,Firearm,466
 James Morris,40,Male,Unknown,May,31,2015,Juanipero Way and La Loma Dr,Medford,OR,Gunshot,Medford Police Department,Firearm,467
